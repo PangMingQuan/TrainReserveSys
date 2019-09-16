@@ -92,5 +92,6 @@ void getYear()
 int main()
 {
   cout<<"stupid jc"<<endl;
+  cout<<"hello world"<<endl;
 
 }
